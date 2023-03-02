@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Kai Jun, a Year 2 Nanyang Technological University (NTU) student, studying Renaissance Engineering Programme (REP), specialising in Computer Science.
+I am Kai Jun, a Year 2 Nanyang Technological University (NTU) student, studying Renaissance Engineering Programme (REP), specialising in Computer Science.\
 I am currently working as a Backend Software Engineer and Smart Contract Developer (Part-Time) in the blockchain space.
 I am really passionate about Software Engineering, and how we can come up with endless solutions to solve the same problem makes it all the more interesting.
 I am currently interested to explore into the FinTech, E-Comnmerce as a Software Engineer. But if the opportunity arises, I would also like to explore Data Analytics and Machine Learning.
-
+\\
 Feel free to reach out to me via email or LinkedIn if you would like to connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ang-kai-jun-82156417b/)](https://www.linkedin.com/in/ang-kai-jun-82156417b/)
