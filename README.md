@@ -7,8 +7,8 @@ I am currently interested to explore into the FinTech, E-Comnmerce as a Software
 
 Feel free to reach out to me via email or LinkedIn if you would like to connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ang-kai-jun-82156417b/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaijun123@gmail.com)](mailto:mdraanik12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ang-kai-jun-82156417b/)](https://www.linkedin.com/in/ang-kai-jun-82156417b/)
+[![Gmail Badge](https://img.shields.io/badge/kaijun123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaijun123@gmail.com)](mailto:mdraanik12@gmail.com)
 
 ## ⚡ Technologies
 
