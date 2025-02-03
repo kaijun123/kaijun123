@@ -1,29 +1,142 @@
-### Hi there 👋
+<div align="center">
+  <h3>Hi there! I am Kai Jun! 👋</h3>
+  <a href="mailto:angkaijun.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/ang-kai-jun-82156417b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-I am Kai Jun, a Year 2 Nanyang Technological University (NTU) student, studying Renaissance Engineering Programme (REP), specialising in Computer Science.\
-<br/>
-I am currently working as a Backend Software Engineer and Smart Contract Developer (Part-Time) in the blockchain space.
-I am really passionate about Software Engineering, and how we can come up with endless solutions to solve the same problem makes it all the more interesting.
-I am currently interested to explore into the FinTech, E-Comnmerce as a Software Engineer. But if the opportunity arises, I would also like to explore Data Analytics and Machine Learning.
-\
-<br/>
+</div>
+
+
+#### A little about me:
+- 🏫 Year 4 Nanyang Technological University (NTU) student
+- 📖 Studying Renaissance Engineering Programme (REP), specialising in Computer Science
+- 🤩 Interested in Backend Development, Distributed Systems, Fintech, Web3, Machine Learning
+- 🌱 Would like to explore Machine Learning, Frontend Development in the future too 
+
 Feel free to reach out to me via email or LinkedIn if you would like to connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ang-kai-jun-82156417b/)](https://www.linkedin.com/in/ang-kai-jun-82156417b/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kaijun123@gmail.com)](mailto:kaijun123@gmail.com)
 
 ## ⚡ Technologies
+<div align="center">
+  <h3 style="text-align: center;">Back-End</h3>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" 
+          alt="ExpressJS" 
+          style="height: 25px;" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" 
+          alt="NodeJS" 
+          style="height: 25px;" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" 
+          alt="Go" 
+          style="height: 25px;" />
+    </a>
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" 
+          alt="Sequelize" 
+          style="height: 25px;" 
+          />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" 
+          alt="Redis" 
+          style="height: 25px;" 
+          />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" 
+          alt="RabbitMQ" 
+          style="height: 25px;" 
+          />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" 
+          alt="Prisma" 
+          style="height: 25px;" 
+          />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" 
+          alt="Supabase" 
+          style="height: 25px;" 
+          />
+    </a>
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 5px;">
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" 
+          alt="Postgresql" 
+          style="height: 25px;" 
+          />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" 
+          alt="MongoDB" 
+          style="height: 25px;" 
+          />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TimescaleDB-003B77?style=for-the-badge&logo=timescale&logoColor=white" 
+          alt="TimescaleDB" 
+          style="height: 25px;" 
+          />
+    </a>
+  </div>
+
+  <h3 style="text-align: center;">Front-End</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    </a>
+  </div>
+
+  <h3 style="text-align: center;">DevOps</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    </a>
+  </div>
+
+  <h3 style="text-align: center;">Machine Learning</h3>
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    </a>
+    <a href="#" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch" />
+    </a>
+  </div>
+</div>
+
 
 
 
@@ -40,4 +153,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
